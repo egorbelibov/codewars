@@ -1,6 +1,6 @@
 #+TITLE: Codewars
 
 #+BEGIN_QUOTE
-The wise warrior avoids the battle.
+The wise warrior avoids the battle
 -- Sun Tzu (/The Art of War/)
 #+END_QUOTE
